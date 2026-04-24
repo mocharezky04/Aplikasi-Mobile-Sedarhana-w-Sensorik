@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:0d9488&text=Tugas%201%20Sensor%20Flutter&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Accelerometer%20%C2%B7%20Compass%2BGyroscope%20%C2%B7%20Light%20Sensor&descAlignY=60)
+﻿![Banner](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:0d9488&text=Tugas%201%20Sensor%20Flutter&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Accelerometer%20%C2%B7%20Compass%2BGyroscope%20%C2%B7%20Light%20Sensor&descAlignY=60)
 
 # Tugas 1 Sensor Flutter
 
@@ -84,8 +84,8 @@ Folder yang bisa diklik:
 1. Clone repository
 
 ```bash
-git clone <url-repository-kamu>
-cd tugas_1_sensor
+git clone https://github.com/mocharezky04/Aplikasi-Mobile-Sedarhana-w-Sensorik.git
+cd Aplikasi-Mobile-Sedarhana-w-Sensorik
 ```
 
 2. Install dependency
@@ -110,11 +110,11 @@ flutter build apk --release
 
 ## 🧭 Halaman Sensor
 
-| Halaman                 | Data Utama                                   | Visualisasi                         |
-| ----------------------- | -------------------------------------------- | ----------------------------------- |
-| `Accelerometer`         | Kecepatan estimasi, jarak estimasi           | Ikon pelari bergerak                |
-| `Compass + Gyroscope`   | Heading derajat, arah mata angin, tilt X/Y   | Dial compass dengan efek 3D         |
-| `Light Sensor`          | Intensitas cahaya (lux), rentang kalibrasi   | Tema gelap/terang menyesuaikan lux  |
+| Halaman               | Data Utama                                 | Visualisasi                        |
+| --------------------- | ------------------------------------------ | ---------------------------------- |
+| `Accelerometer`       | Kecepatan estimasi, jarak estimasi         | Ikon pelari bergerak               |
+| `Compass + Gyroscope` | Heading derajat, arah mata angin, tilt X/Y | Dial compass dengan efek 3D        |
+| `Light Sensor`        | Intensitas cahaya (lux), rentang kalibrasi | Tema gelap/terang menyesuaikan lux |
 
 ## 🧪 Testing
 
