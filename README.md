@@ -54,7 +54,7 @@ Fokus proyek adalah implementasi sensor, tanpa fitur tambahan seperti CRUD, logi
   <summary><strong>Click here to expand</strong></summary>
 
 ```text
-tugas_1_sensor/
+Aplikasi-Mobile-Sederhana-w-Sensorik/
 |- android/
 |- ios/
 |- lib/
